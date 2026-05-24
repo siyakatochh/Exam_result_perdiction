@@ -35,34 +35,33 @@ The dataset contains student-related academic information such as:
 | Final_Result          | Pass / Fail / Supply      |
 
 Methodology
-Step 1: Data Collection
 
+
+Step 1: Data Collection
 Student academic records are collected from school/college databases or Excel sheets.
 
 Step 2: Data Preprocessing
 Remove missing values
 Clean incorrect data
 Convert categorical data into proper format
-Step 3: Import Dataset
 
+Step 3: Import Dataset
 The dataset is imported into IBM SPSS Modeler.
 
 Step 4: Model Building
-
 Different predictive models are applied such as:
-
 Decision Tree
 Neural Network
 Logistic Regression
-Step 5: Training and Testing
 
+Step 5: Training and Testing
 The dataset is divided into training and testing data for prediction accuracy.
 
 Step 6: Prediction
-
 The model predicts the final exam result of students.
 
 Working Flow
+
 1.Collect Student Data
 2.Import Dataset into IBM SPSS Modeler
 3.Preprocess Data
@@ -72,6 +71,7 @@ Working Flow
 7.Analyze Accuracy
 
 Features
+
 -Predicts student performance
 -Easy graphical interface
 -Accurate result analysis
@@ -79,16 +79,19 @@ Features
 -Reduces manual analysis work
 
 Future Scope
+
 Integration with web applications
 Real-time student monitoring
 AI-based recommendation system
 Mobile application support
 
 Conclusion
+
 The Exam Result Prediction System using IBM SPSS Modeler helps educational institutions predict student performance effectively.
 By using predictive analytics and machine learning, institutions can identify students needing improvement and take corrective actions before final examinations.
 
 References
+
 IBM SPSS Modeler Official Website
 Research papers on Student Performance Prediction
 Machine Learning and Data Mining concepts
